@@ -1,0 +1,29 @@
+.resources {
+    height: 400px;
+    background-color: white;
+    padding: 20px;
+     color: #6c757d;
+     overflow: scroll;
+   
+
+}
+.list{
+    position: sticky;
+}
+.resources__content{
+top: 50%;
+left: 50%;
+transform: translate(50% -50%);
+
+}
+.resources__content > p{
+    color: black;
+    font-size: small;
+} 
+.resources__content > h3{
+    color: black;
+}
+.resources__content > ul{
+    color: black;
+    font-size: small;
+}
