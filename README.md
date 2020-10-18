@@ -6,4 +6,4 @@
 
 -> Used disease.sh API to get the day today covid updates
 
--> Deployed site: covid-19-app-17f14.web.app
+-> Deployed site: https://covid-19-app-17f14.web.app/
